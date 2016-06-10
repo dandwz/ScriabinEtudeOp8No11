@@ -1,0 +1,1 @@
+This is the code for lilypond to engrave the transcription I made of Scriabin's Etude Op 8 No 11 for classical guitar.
